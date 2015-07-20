@@ -1,2 +1,2 @@
 # datasciencecoursera
-# Repository for Data Scientist's Toolbox course in Coursera.
+# Repository for Data Scientist's Toolbox course in Coursera
